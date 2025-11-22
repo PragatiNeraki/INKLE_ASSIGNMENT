@@ -1,6 +1,6 @@
-# Inkle Assignment - Tax Management System
+# Inkle Assignment 
 
-A modern React application for managing tax records with a clean, intuitive user interface. This project demonstrates a full-stack frontend solution with data table management, filtering, and modal-based editing capabilities.
+A modern React application for managing records with a clean, intuitive user interface. This project demonstrates a full-stack frontend solution with data table management, filtering, and modal-based editing capabilities.
 
 ## 🚀 Features
 
@@ -165,4 +165,5 @@ This project is created for assignment purposes.
 ---
 
 Built with ❤️ using React and Vite
+
 
